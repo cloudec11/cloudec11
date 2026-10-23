@@ -32,7 +32,8 @@ Web app for first responders that watches city camera feeds and uses TensorFlow 
 
 - **Software Developer Intern @ Korah Limited** (Summer 2026): LLM-powered receptionist kiosk, Alexa voice interface, Python services on AWS Lambda
 - **Software Engineer Intern @ Autumn Co** (Summer 2026): Python web scraping, frontend QA and refactoring
-
+- **Software Developer Co-op @ bizZone** (Winter 2023): APIs, frontend QA and web developement
+  
 ## 🧰 Tech
 
 **Languages:** Python · JavaScript · Java · C · C++ · HTML/CSS
