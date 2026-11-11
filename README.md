@@ -1,6 +1,6 @@
 # Hi, I'm Eric 👋
 
-Computer Science student at **Western University**. I build full-stack apps and AI tools, most recently LLM agents and retrieval systems. Previously a software intern at **Korah** and **Autumn Co**. Looking for **Summer 2027 co-op** roles.
+Computer Science student at **Western University**. I build full-stack apps and AI tools, most recently LLM agents and retrieval systems. Previously a software intern at **Korah** and **Autumn Co**. Looking for **Fall 2027 co-op** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--chen11-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eric-chen11)
 [![Devpost](https://img.shields.io/badge/Devpost-cloudec--11-003E54?style=flat-square&logo=devpost)](https://devpost.com/cloudec-11)
