@@ -2,6 +2,9 @@
 
 Computer Science student at **Western University**. I build full-stack apps and AI tools, most recently LLM agents and retrieval systems. Previously a software intern at **Korah** and **Autumn Co**. Looking for **Fall 2027 co-op** roles.
 
+🌐 Portfolio: **[eric-chen.ca](https://eric-chen.ca)**
+
+[![Website](https://img.shields.io/badge/Website-eric--chen.ca-151311?style=flat-square&logo=googlechrome&logoColor=white)](https://eric-chen.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--chen11-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eric-chen11)
 [![Devpost](https://img.shields.io/badge/Devpost-cloudec--11-003E54?style=flat-square&logo=devpost)](https://devpost.com/cloudec-11)
 [![Email](https://img.shields.io/badge/Email-cloudec.11%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cloudec.11@gmail.com)
@@ -33,7 +36,7 @@ Web app for first responders that watches city camera feeds and uses TensorFlow 
 - **Software Developer Intern @ Korah Limited** (Summer 2026): LLM-powered receptionist kiosk, Alexa voice interface, Python services on AWS Lambda
 - **Software Engineer Intern @ Autumn Co** (Summer 2026): Python web scraping, frontend QA and refactoring
 - **Software Developer Co-op @ bizZone** (Winter 2023): APIs, frontend QA and web development
-  
+
 ## 🧰 Tech
 
 **Languages:** Python · JavaScript · Java · C · C++ · HTML/CSS
