@@ -42,3 +42,7 @@ Web app for first responders that watches city camera feeds and uses TensorFlow 
 **Languages:** Python · JavaScript · Java · C · C++ · HTML/CSS
 **Frameworks:** React · Next.js · Node.js · FastAPI · Flask
 **Tools:** AWS Lambda · Docker · Elasticsearch · MongoDB · OpenAI API · MCP · Git · Linux
+
+## 📊 GitHub activity
+
+<p align="center"><img src="/github-metrics.svg" alt="Eric Chen GitHub metrics" width="100%"></p>
