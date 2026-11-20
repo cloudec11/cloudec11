@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Main card: header, activity, repos + languages, contribution calendar, achievements
+      # Main card: header, activity, repos, languages, contribution calendar
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -26,13 +26,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 6
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
 
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
 
       # LeetCode card (optional) — uncomment and put your LeetCode username in
       # - uses: lowlighter/metrics@latest
