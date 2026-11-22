@@ -11,13 +11,13 @@ Computer Science student at **Western University**. I build full-stack apps and 
 
 ## 🏆 Hackathon projects
 
+**[OpenPod](https://devpost.com/software/pod-81c6ei)**: 🥈 *Runner-up, QNX Challenge @ Hack Western 13*
+Real-time wildlife camera trap on a Raspberry Pi 5 running QNX 8.0. TensorFlow Lite detects animals on the device and sends ~160-byte visit records (never video) to a ground station. The ground station estimates population density, runs a 10-year forecast and flags declines. Real-time scheduling kept detection p99 at 150 ms under full CPU load (2.6 s without it). I built the ground station: the population maths, a forecast backtested on 46 years of real moose counts (90% range held 94% of the time), and an alert and budget API.
+`QNX` `C` `TensorFlow Lite` `Raspberry Pi` `Python` `SQLite` · [code](https://github.com/cloudec11/HackWestern13) · team of 4
+
 **[Signal](https://devpost.com/software/temp-project-0sp3zv)**: 🥇 *Winner, RBC "Signal in the Noise" @ Hack the North 2026*
 Multi-agent financial research assistant that answers with line-level citations and flags conflicting or missing data instead of guessing. Hybrid BM25 + vector search in Elasticsearch, a FastAPI backend streaming the live agent trace, and an MCP client that loads new datasets from a URL.
 `Python` `FastAPI` `Elasticsearch` `OpenAI` `MCP` `MongoDB` · [code](https://github.com/liamma06/searchGM) · team of 3
-
-**[FindMySeat](https://devpost.com/software/findmyseat)**: *Hack Western 12*
-Real-time seat availability platform: Raspberry Pi ultrasonic sensors stream occupancy to a FastAPI backend and a live Next.js dashboard, with a Gemini chat assistant for seat recommendations.
-`Python` `FastAPI` `Next.js` `Raspberry Pi` `Gemini` `Firebase` · [code](https://github.com/liamma06/Hackwestern) · [demo](https://findmyseathackwestern.vercel.app) · team of 3
 
 **[Grip Guardian](https://dorahacks.io/buidl/13396)**: 🏆 *Best Development Tool @ JAMHacks 8*
 Sensor-equipped ergonomic mouse that tracks hand position and pressure to flag strain risks in real time, with a web dashboard for analytics and posture tips.
